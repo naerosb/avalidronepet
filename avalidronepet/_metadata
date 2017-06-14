@@ -1,0 +1,11 @@
+{
+  "author" : "Leinglo",
+  "description" : "A drone pet for the Avali, complete with a custom pet house.",
+  "friendlyName" : "Avali Drone Pet (1.3 Patch)",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/946335869",
+  "name" : "avalidronepet",
+  "requires" : ["Avali"],
+  "steamContentId" : "946335869",
+  "version" : "1.3.0"
+}
