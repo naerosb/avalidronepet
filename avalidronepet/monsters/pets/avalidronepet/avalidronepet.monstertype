@@ -145,7 +145,7 @@
       },
 
       "appliesEnvironmentStatusEffects" : false,
-	  "appliesWeatherStatusEffects" : false,
+	    "appliesWeatherStatusEffects" : false,
       "minimumLiquidStatusEffectPercentage" : 0.1,
 
       "primaryScriptSources" : [
