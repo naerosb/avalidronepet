@@ -2,10 +2,10 @@
   "author" : "Leinglo",
   "description" : "A drone pet for the Avali, spawnable from the craftable pet house. Has Purchasable Pets support",
   "friendlyName" : "Avali Drone Pet (Purchasable Pets, 1.3 Patch)",
-  "includes" : ["p_Pets", "Avali"],
+  "includes" : [],
   "link" : "steam://url/CommunityFilePage/946708622",
   "name" : "avalidronepet-ppets",
-  "requires" : [],
+  "requires" : ["p_Pets"],
   "steamContentId" : "946708622",
   "version" : "1.3.1"
 }
