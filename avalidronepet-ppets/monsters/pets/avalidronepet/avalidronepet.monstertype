@@ -23,6 +23,7 @@
       "/monsters/pets/wanderState.lua",
 
       "/monsters/pets/petBehavior.lua",
+      "/monsters/pets/petBehaviorAvali.lua",
       "/monsters/pets/actions/followAction.lua",
       "/monsters/pets/actions/inspectAction.lua",
       "/monsters/pets/actions/eatAction.lua",
