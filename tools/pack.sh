@@ -1,8 +1,4 @@
-modname=""
-
-if [[ $1 == "" ]]; then
-  echo "Specify vanilla or ppets"
-fi
+modname="avalidronepet"
 
 if [[ $1 == "vanilla" ]]; then
   modname="avalidronepet"
