@@ -1,3 +1,4 @@
+-- Don't tell anyone but I literally just took the code from vanilla superrewardbag
 require "/scripts/vec2.lua"
 
 local useFU, _ = pcall(require, "/interface/objectcrafting/fu_racialiser/fu_racialiser.lua")
@@ -88,6 +89,8 @@ function outsideOfHand()
   return false
 end
 
+-- I took this straight from FU, don't sue me please.
+-- It's needed for finding the Avali race config info for FU's racialiser.
 function racialiserBootUp()
 	raceInfo = root.assetJson("/interface/objectcrafting/fu_racialiser/fu_raceinfo.config").raceInfo
 	for num, info in pairs (raceInfo) do
