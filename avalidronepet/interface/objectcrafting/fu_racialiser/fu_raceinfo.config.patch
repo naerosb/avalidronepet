@@ -1,0 +1,18 @@
+
+[
+  {
+    "op": "test",
+    "path": "/raceInfo/12/race",
+    "value": "avali"
+  },
+  {
+    "op": "replace",
+    "path": "/raceInfo/12/petName",
+    "value": "Avali Drone Pet"
+  },
+  {
+    "op": "replace",
+    "path": "/raceInfo/12/pet",
+    "value": {"name": "avalidronepet", "unique": true}
+  }
+]
