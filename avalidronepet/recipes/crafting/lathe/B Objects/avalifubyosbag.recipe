@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item": "money", "count": 0 }
+  ],
+  "output" : { "item" : "avalifubyosbag", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "ingredients", "avalilathe", "all" ]
+}

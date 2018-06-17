@@ -1,0 +1,24 @@
+{
+  "itemName" : "avalifubyosbag",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "miscellaneous",
+  "description" : "Gives a FU BYOS compatible S.A.I.L for Avali Drone Pet users.",
+  "shortdescription" : "Avali FU BYOS Bag",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "avalifubyosbagicon.png",
+  "animation" : "avalifubyosbag.animation",
+  "animationCustom" : {},
+  "scripts" : ["avalifubyosbag.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "endTreasure",
+    "level" : 1
+  }
+}
